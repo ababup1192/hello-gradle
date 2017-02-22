@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.ababup1192.HelloTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-02-22T13:26:39" hostname="610f8bc8-0cc3-4cfb-67e2-56cda1052cad" time="0.001">
+<testsuite name="org.ababup1192.HelloTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-02-22T13:27:38" hostname="20af827f-03c1-49e9-628a-4f23c42fb37f" time="0.001">
   <properties/>
   <testcase name="passedTest" classname="org.ababup1192.HelloTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
